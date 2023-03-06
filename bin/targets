@@ -1,0 +1,4 @@
+#!/bin/bash
+
+find data/ -name *vcf | \
+	sed -e 's/data/results/' -e 's/.filter.vcf/.decompose.vcf/'
