@@ -1,2 +1,2 @@
 # mk-vcfdecompose
-Decompose VCF using RTG Tools vcfdecompose
+Decompose VCF using [RTG](https://www.realtimegenomics.com/products/rtg-core) Tools vcfdecompose
